@@ -1,4 +1,4 @@
-# Mathematical Proof of Isomorphic Resolution in MIMIX AI Face Generation System
+# MIMIX AI Face Generation System
 
 ## Abstract
 
