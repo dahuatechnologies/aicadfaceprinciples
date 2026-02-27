@@ -1,5 +1,11 @@
 # MIMIX AI Face Generation System
 
+---
+
+https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
+
+---
+
 ## Abstract
 
 This paper presents a formal proof of isomorphic mapping between the specification requirements and the implemented solution in the MIMIX Autonomous AI 3D CAD Face system. We demonstrate how gaps between theoretical specifications and practical implementation are resolved through mathematical isomorphisms, establishing a bijective relationship between the 5-axis Golden Ratio coordinate system and the rendered facial geometry.
