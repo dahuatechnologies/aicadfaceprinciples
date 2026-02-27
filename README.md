@@ -2,7 +2,7 @@
 
 ---
 
-## Adhering Mathematical Foundation: Pre-Calculus, Calculus A/B/C
+## Adhering Mathematical: Pre-Calculus, Calculus A/B/C
 
 ---
 
