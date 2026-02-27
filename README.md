@@ -2,6 +2,10 @@
 
 ---
 
+## Adhering Mathematical Foundation: Pre-Calculus, Calculus A/B/C
+
+---
+
 https://github.com/user-attachments/assets/f83ad5e4-dfdb-4463-8c59-d07f5a446c61
 
 ---
